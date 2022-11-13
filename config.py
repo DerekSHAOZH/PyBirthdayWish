@@ -7,7 +7,7 @@ codePrint = False
 codingSpeed = 0.01
 codeColor='red'
 # Audio
-playAudio = True
+playAudio = False
 audio = 'HappyBirthday.mp3'
 # Random color is choosen from the list
 color = ['red','green','yellow','blue','magenta','cyan','white']
